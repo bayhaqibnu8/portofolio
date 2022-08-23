@@ -1,0 +1,18 @@
+body {
+  min-height: 2000px;  
+}
+.jumbotron {
+    padding-top: 6rem;
+    background-image: url(assets/images/work1.jpg);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+    max-height: fit-content;
+}
+#projects {
+    background-color: #f9deff;
+}
+
+section {
+    padding-top: 5rem;
+}
